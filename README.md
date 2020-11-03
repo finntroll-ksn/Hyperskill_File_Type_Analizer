@@ -1,0 +1,1 @@
+# Hyperskill_File_Type_Analizer
